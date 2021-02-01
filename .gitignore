@@ -1,0 +1,12 @@
+# Binaries 
+*.exe
+*.exe~
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+#Database Files
+*.db
